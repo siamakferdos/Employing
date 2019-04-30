@@ -1,0 +1,44 @@
+/*form[name='form_reg_emp'] div{*/
+    /*width: 40% !important;*/
+    /*margin-left: 5%;*/
+    /*float: right;*/
+/*}*/
+
+/*form[name='form_reg_emp'] div select,*/
+/*form[name='form_reg_emp'] div input,*/
+/*form[name='form_reg_emp'] div span{*/
+    /*float: right;*/
+/*}*/
+
+/*form[name='form_reg_emp'] div select:nth-child(2) {*/
+    /*clear: both;*/
+/*}*/
+
+/*.float-right{*/
+    /*float: right;*/
+/*}*/
+
+/*.width20{*/
+    /*width: 20%;*/
+/*}*/
+/*.width30{*/
+    /*width: 30%;*/
+/*}*/
+/*.width30{*/
+    /*width: 40%;*/
+/*}*/
+/*.width50{*/
+    /*width: 50%;*/
+/*}*/
+/*.width60{*/
+    /*width: 60%;*/
+/*}*/
+/*.width70{*/
+    /*width: 70%;*/
+/*}*/
+/*.width80{*/
+    /*width: 80%;*/
+/*}*/
+/*.width30{*/
+    /*width: 30%;*/
+/*}*/

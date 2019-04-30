@@ -1,0 +1,2 @@
+[12-Aug-2018 17:09:22 America/Chicago] PHP Warning:  require_once(SHONIZ_INCdao/tables.php): failed to open stream: No such file or directory in /home/shonizgl/shoniz.com/wp-content/plugins/employment/inc/initial/database.php on line 8
+[12-Aug-2018 17:09:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'SHONIZ_INCdao/tables.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/shonizgl/shoniz.com/wp-content/plugins/employment/inc/initial/database.php on line 8

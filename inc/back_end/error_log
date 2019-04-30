@@ -1,0 +1,1 @@
+[12-Aug-2018 17:09:10 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/shonizgl/shoniz.com/wp-content/plugins/employment/inc/back_end/manage.php on line 64

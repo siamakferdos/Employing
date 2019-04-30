@@ -1,0 +1,1 @@
+[12-Aug-2018 17:08:44 America/Chicago] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/shonizgl/shoniz.com/wp-content/plugins/employment/employment.php on line 9
